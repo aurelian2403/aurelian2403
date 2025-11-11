@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aurelian2403
 - 👀 I’m interested in Programming Languages.
-- 🌱 I’m currently learning C/C++.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aurelian2403@gmail.com
 - 😄 Pronouns: He
